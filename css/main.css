@@ -1,0 +1,117 @@
+@font-face{
+	font-family: 'Wisdom Script AJ';
+	src: url('../fonts/wisdom script AJ.otf') format('opentype');
+}
+
+header h1 {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    float: left;
+    margin: 20px 200px 0px 40px;
+    line-height: 25px;
+    }
+
+header nav ul li {
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+    float: left;
+    padding: 30px 20px 20px 40px;
+    font-weight: bold;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #77a466;
+}
+
+#img {
+    margin: 20px 40px 0px 40px;
+    border-bottom: 3px solid #77a466;
+    border-top: 3px solid #77a466;
+}
+
+.top-section h2 {
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #77a466;
+    margin: 20px 40px 20px 40px;
+}
+
+.top-section p {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    margin: 20px 40px 20px 40px;
+    line-height: 25px;
+}
+
+#one h3, #two h3, #three h3 {
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: black;
+    margin: 20px 40px 20px 40px;
+}
+
+#two p, address{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    margin: 20px 40px 20px 40px;
+    font-style: normal;
+}
+
+#two p {
+    line-height: 24px;
+}
+
+address {
+    line-height: 21px;
+}
+
+#one ul li {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    color: #77a466;
+    margin: 20px 40px 20px 40px;
+    font-style: normal;
+}
+
+#two {
+    border-right: 1px solid silver;
+    border-left: 1px solid silver;
+
+}
+
+#one, #two, #three {
+    width: 400px;
+    float: left;
+    padding: 0px 15px;
+}
+.middle-section {
+    border-top: 1px solid silver;
+    margin: 0px 20px 0px 20px;
+}
+
+#bottom {
+    clear: both;
+    border-top: 3px solid silver;
+    margin: 0px 20px 0px 20px;
+}
+
+#bottom p {font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-weight: bold;
+    font-style: normal;
+    margin: 20px 400px 20px 440px;
+    padding: 20px 0px 0px 0px;
+}
+
+#bottom span {
+    font-family: 'Wisdom Script AJ', sans-serif;
+    color: #77a466;
+}
